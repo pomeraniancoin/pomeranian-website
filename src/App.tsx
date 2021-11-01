@@ -9,11 +9,6 @@ import {
   Center,
   theme,
   Text,
-  Accordion,
-  AccordionButton,
-  AccordionItem,
-  AccordionIcon,
-  AccordionPanel,
 } from '@chakra-ui/react';
 import Header from './components/Header';
 import CTA from './components/Cta';
@@ -105,7 +100,7 @@ export const App = () => (
                    Will the team sell their $POM?
                   </Heading>
                   <Text pt="4">
-                  No, the team will never sell, since the team in fact holds a total of 0 tokens at launch. It is up to every individual of the community to buy and sell the token, making it as fair as possible.
+                    No, the team will have no $POM after launch. In fact, the team will market buy $POM after launch with some of the funds raised in order to incentivize price action and reward presale supporters.
                   </Text>
                   <Heading
                   pt="10"
